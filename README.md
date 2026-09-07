@@ -30,7 +30,7 @@ interfaz y puesta en producción.
 
 **Lo que he construido**
 
-- **[Tu cuaderno](https://evedgy.vercel.app/)** — aplicación de entrenamiento y hábitos.
+- **[Evedgy](https://evedgy.vercel.app/)** — aplicación de entrenamiento y hábitos.
   React + FastAPI + Supabase, instalable como PWA en el móvil.
   · [código](https://github.com/m-elass/evedgy)
 - **[KNAVE](https://github.com/m-elass/Alroad)** — conversor de documentos y PDF que
@@ -39,7 +39,7 @@ interfaz y puesta en producción.
   en Python puro sobre la API de la plataforma biomédica Open Targets, con 42 pruebas
   unitarias en integración continua.
 
-**En lo que ando ahora:** *Archivo*, un gestor de archivos y calendario para estudiantes
+**En lo que ando ahora:** *Bondew*, un gestor de archivos y calendario para estudiantes
 universitarios, sobre Cloudflare Workers.
 
 Python · FastAPI · React · TypeScript · SQL · Docker · Git
